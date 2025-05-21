@@ -77,7 +77,7 @@ sh train_pred_short.sh
 python train_rl.py
 ```
 
-2) get prediction result on test set from '*code/results/df_print/*'
+2) get policy optimization result on test set from '*code/results/df_print/*'
 
 [//]: # (## Citation)
 
