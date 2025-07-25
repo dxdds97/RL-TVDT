@@ -24,7 +24,7 @@ def main():
     # parser.add_argument('--data_name', type=str, default='CSI', help='')
     parser.add_argument('--data_name', type=str, default='CSI', help='')
     parser.add_argument('--data_type', type=str, default='stock', help='stock')
-    parser.add_argument('--root_path', type=str, default='D:/RL-TVDT/RL-TVDT/data/', help='root path of the data file')
+    parser.add_argument('--root_path', type=str, default='D:/RL-TVDT-main/RL-TVDT/data/', help='root path of the data file')
     # parser.add_argument('--full_stock_path', type=str, default='CSI/', help='root path of the data file')
     parser.add_argument('--full_stock_path', type=str, default='CSI/', help='root path of the data file')
 
